@@ -1,6 +1,6 @@
 # 🫀 Liver Disease Prediction – Data Mining Project
 
-> A data mining study that applies **classification** and **clustering** techniques to predict liver disease using patient medical records — helping identify risk factors and support early diagnosis.
+> A data mining Project that applies **classification** and **clustering** techniques to predict liver disease using patient medical records — helping identify risk factors and support early diagnosis.
 
 ---
 
